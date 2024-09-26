@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Priyanka Pol</h1>
+<h1 align="center">Hi 👋, I'm  Priyanka Pol </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<img align="right" alt="coding" width="300" height="300" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 
 
 - 📫 How to reach me **priyankapol2019@gmail.com**
@@ -18,8 +18,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanka-pol&show_icons=true&locale=en&layout=compact" alt="priyanka-pol" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanka-pol&show_icons=true&locale=en" alt="priyanka-pol" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=priyanka-pol&show_icons=true&locale=en" alt="priyanka-pol" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-pol&" alt="priyanka-pol" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-pol&" alt="priyanka-pol" /></p>
 
 
